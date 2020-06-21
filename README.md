@@ -2,7 +2,7 @@
 # 🔮 FTC ![](https://img.shields.io/badge/CSGO-WINDOWS-green)
 
 # Download / Latest Release:
-* Coming Very Soon
+* Coming Soon
 
 # FAQ:
 * This [Release](https://github.com/vetid/ftc/releases "Release") of FTC that will be updated manually for every time that CSGO updates.
